@@ -11,3 +11,8 @@
       * [How to map onscreen controls](anbernic/rg557/guides/keymap.md)
       * [RG Launcher](anbernic/rg557/guides/rg-launcher.md)
     * [driver-scripts](anbernic/rg557/driver-scripts.md)
+* [ayn](ayn/README.md)
+  * [odin 2](ayn/odin-2/README.md)
+    * [batocera linux](ayn/odin-2/batocera-linux.md)
+    * [rocknix linux](ayn/odin-2/rocknix-linux.md)
+    * [root](ayn/odin-2/root.md)
