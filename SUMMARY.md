@@ -16,3 +16,4 @@
     * [batocera linux](ayn/odin-2/batocera-linux.md)
     * [rocknix linux](ayn/odin-2/rocknix-linux.md)
     * [root](ayn/odin-2/root.md)
+  * [odin 2 portal](ayn/odin-2-portal.md)
